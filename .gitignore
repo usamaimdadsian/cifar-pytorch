@@ -1,0 +1,3 @@
+data/cifar-10-batches-py
+__pycache__
+checkpoints/*
